@@ -1,7 +1,7 @@
 # In this challenge your objective is to fill the variable fruit_basket with more fruits by using the push method
 # Additionally you will use the delete method for removing the vegetable elements.
 
-fruit_basket = Array["apple", "lettuce", "strawberry", "cabbage", "string beans"]
+fruit_basket = ["apple", "lettuce", "strawberry", "cabbage", "string beans"]
 
 # Write your code below this line
 
