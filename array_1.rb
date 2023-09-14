@@ -1,5 +1,5 @@
 #Let's keep the first challenge simple
-#Your is to print the number divisible by either 3, 5, or 7
+#Your task is to print the number divisible by either 3, 5, or 7
 
 numbers = Array[34, 24, 48, 19, 23, 81]
 
