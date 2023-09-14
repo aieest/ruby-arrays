@@ -1,3 +1,4 @@
+
 # Let's keep the first challenge simple
 # Your task is to print the number divisible by either 3, 5, or 7
 
@@ -10,3 +11,4 @@ numbers.each do |num|
     puts num
   end
 end
+
