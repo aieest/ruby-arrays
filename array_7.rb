@@ -1,7 +1,7 @@
 #The elements inside the array are in descending order
 # Use the reverse method to turn it into ascending order instead
 
-numbers = Array[5, 4, 3, 2, 1]
+numbers = [5, 4, 3, 2, 1]
 
 # Write your code below this line
 
